@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Edward-Carey/static/css/main.3b3ec51a.chunk.css",
-    "main.js": "/Edward-Carey/static/js/main.00ba174c.chunk.js",
-    "main.js.map": "/Edward-Carey/static/js/main.00ba174c.chunk.js.map",
+    "main.css": "/Edward-Carey/static/css/main.e083f29e.chunk.css",
+    "main.js": "/Edward-Carey/static/js/main.c55f1400.chunk.js",
+    "main.js.map": "/Edward-Carey/static/js/main.c55f1400.chunk.js.map",
     "runtime-main.js": "/Edward-Carey/static/js/runtime-main.c9590e7f.js",
     "runtime-main.js.map": "/Edward-Carey/static/js/runtime-main.c9590e7f.js.map",
-    "static/js/2.34a3072b.chunk.js": "/Edward-Carey/static/js/2.34a3072b.chunk.js",
-    "static/js/2.34a3072b.chunk.js.map": "/Edward-Carey/static/js/2.34a3072b.chunk.js.map",
+    "static/js/2.38d5ed6a.chunk.js": "/Edward-Carey/static/js/2.38d5ed6a.chunk.js",
+    "static/js/2.38d5ed6a.chunk.js.map": "/Edward-Carey/static/js/2.38d5ed6a.chunk.js.map",
     "index.html": "/Edward-Carey/index.html",
-    "static/css/main.3b3ec51a.chunk.css.map": "/Edward-Carey/static/css/main.3b3ec51a.chunk.css.map",
-    "static/js/2.34a3072b.chunk.js.LICENSE.txt": "/Edward-Carey/static/js/2.34a3072b.chunk.js.LICENSE.txt"
+    "static/css/main.e083f29e.chunk.css.map": "/Edward-Carey/static/css/main.e083f29e.chunk.css.map",
+    "static/js/2.38d5ed6a.chunk.js.LICENSE.txt": "/Edward-Carey/static/js/2.38d5ed6a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c9590e7f.js",
-    "static/js/2.34a3072b.chunk.js",
-    "static/css/main.3b3ec51a.chunk.css",
-    "static/js/main.00ba174c.chunk.js"
+    "static/js/2.38d5ed6a.chunk.js",
+    "static/css/main.e083f29e.chunk.css",
+    "static/js/main.c55f1400.chunk.js"
   ]
 }
