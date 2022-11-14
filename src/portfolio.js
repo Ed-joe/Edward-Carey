@@ -9,7 +9,8 @@ const about = {
   name: 'Edward Carey',
   role: 'Software Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    `Hello! I am a recent graduate from Stony Brook University with a B.S. in Computer Science, and a B.S. in Applied Mathematics. Programming has been a big part in my life every since I began college, and 
+    I am excited to continue developing in the future. Curently, I am looking for a fulltime position as a Full Stack or a Backend Developer. Feel free to reach out regarding any inquries.`,
   resume: 'https://drive.google.com/drive/folders/1pY1Y8-ozNWf-ASg8x8JocIccgI7_2KiQ?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/edward-carey-835b1a214/',
