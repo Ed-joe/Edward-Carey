@@ -27,15 +27,15 @@ const projects = [
       `The Redistricting Data Viewer is a dynamic website developed in collaboration with two other developers in order to cleanly view redistricting data metrics and information involving congressional redistricting in 2022. 
        The website includes an interactive map, easy tools for plan to plan comparison, and data for Nevada, Pennsylvania, and Illinois. Lastly, the website includes summary metrics for each state, when using a set of 10000 
        plausible randomly generated plans created using a recombination algorithm on Stony Brook University's high performance computing cluster.`,
-    stack: ["Spring Boot", "MySQL", "GCP", "Boostrap", "Python", "High Performance Computing"],
+    stack: ["Spring Boot", "MySQL", "GCP", "Bootstrap", "Python", "High Performance Computing"],
     livePreview: 'https://ed-joe.github.io/redistricting-dataviewer-front-end/',
   },
   {
     name: "Hell's Fury",
     description:
       `Hell's Fury is an action packed top-down dungeon crawler experience developed in collaberation with two other developers, using a custom TypeScript game engine.
-      The game includes 8 unique levels, 7 unique boss fight's each with their own state machine AI's, 2 unique enemy AI's, and custom music, art, and sound effects.
-      Hell's Fury was the runner up in the Stony Brook University Game Programming Competition, which was judged in front of a panel of industry professionals`,
+      The game includes 8 unique levels, 7 unique boss fights each with their own state machine AIs, 2 unique enemy AIs, and custom music, art, and sound effects.
+      Hell's Fury was the runner-up in the Stony Brook University Game Programming Competition, which was judged by a panel of industry professionals.`,
     stack: ["TypeScript", "HTML/CSS"],
     sourceCode: 'https://github.com/Ed-joe/Hells-Fury',
     livePreview: 'https://hells-fury.firebaseapp.com/',
