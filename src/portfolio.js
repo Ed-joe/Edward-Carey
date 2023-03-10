@@ -11,7 +11,7 @@ const about = {
   description:
     `Hello! I am a recent graduate from Stony Brook University with a B.S. in Computer Science, and a B.S. in Applied Mathematics. Programming has been a big part in my life ever since I began college, and 
     I am excited to continue developing in the future. Curently, I am looking for a full-time position as a Full Stack or a Backend Developer. Feel free to reach out regarding any inquries.`,
-  resume: 'https://drive.google.com/file/d/1MA7U3g1ESnMuc6aM0FEFajdji79BSGIl/view?usp=share_link',
+  resume: 'https://drive.google.com/file/d/1qpuiUMlJ6bN3E9vefMSZKAGLh6TNktAV/view?usp=sharing',
   social: {
     linkedin: 'https://www.linkedin.com/in/edward-carey-835b1a214/',
     github: 'https://github.com/Ed-joe',
